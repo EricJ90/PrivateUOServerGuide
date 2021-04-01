@@ -1,5 +1,5 @@
 # PrivateUOServerGuide
-This is a guide for people looking to test code in Ultima Online. It will be published online when I finish the website. I am writing it in C# and ASP.NET. 
+This is a guide for people looking to test code in Ultima Online. I will be publishing this on my website once I get some time to finish it. I am writing it in C# and ASP.NET. 
 
 The guide is designed to walk you through the steps and setup necessary to launch a local server for your ultima online adventures. It allows you to change the code and see it run in real time. In the future I may develop a stand alone launcher that will replace the current steps.
 
